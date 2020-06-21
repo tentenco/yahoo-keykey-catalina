@@ -30,7 +30,7 @@ If the Yahoo! input method is not installed before the upgrade, users will not b
 
 ![yahooinput04](https://s3.tenten.co/images/2020/06/ebae27bf3fe17d5ced330646f8bed8ad-thumb.jpg)
 
-1. Download the [Yahoo! input method]((https://github.com/zonble/ykk_installer/releases)) repackaged in 2018 
+3. Download the [Yahoo! input method]((https://github.com/zonble/ykk_installer/releases)) repackaged in 2018 
 [![](https://s3.tenten.co/images/2020/06/a357593cf44b71382bd77800a29afccb-thumb.jpg)](https://s3.tenten.co/images/2020/06/a357593cf44b71382bd77800a29afccb-thumb.jpg)
 
 
@@ -47,5 +47,8 @@ If the Yahoo! input method is not installed before the upgrade, users will not b
 [![](https://s3.tenten.co/images/2020/06/b7075b6a7ffb840081a47d92a3431107-thumb.jpg)](https://s3.tenten.co/images/2020/06/b7075b6a7ffb840081a47d92a3431107-thumb.jpg)
 
 
-1. Congrats! You've successfully used Yahoo input method on macOS!
+8. Congrats! You've successfully used Yahoo input method on macOS!
 [![](https://s3.tenten.co/images/2020/06/b2ee35af50a3af56df68b26ca13d0caf-thumb.jpg)](https://s3.tenten.co/images/2020/06/b2ee35af50a3af56df68b26ca13d0caf-thumb.jpg)
+
+
+### Credit and Original repositories > [zonble](https://github.com/zonble)
