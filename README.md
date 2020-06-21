@@ -1,5 +1,7 @@
 Since macOS 10.15 Catalina is no longer able to support 32 bits software installation, we also mistakenly thought that the "Yahoo! input method" is 32 bits. Fortunately, the station friends corrected it. In fact, the input method itself is 64 bits, but the installation program is 32 bits, so Can not be installed.
 
+Download > [Yahoo Keykey Chinese Input repackage 2020 for OSX Catalina 10.15 by zonble](https://github.com/zonble/ykk_installer/releases) 
+
 ![](https://i.imgur.com/X55LuTp.png)
 
 ## Can't install after upgrading Catalina?
