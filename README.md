@@ -1,6 +1,6 @@
 Since macOS 10.15 Catalina is no longer able to support 32 bits software installation, we also mistakenly thought that the "Yahoo! input method" is 32 bits. Fortunately, the station friends corrected it. In fact, the input method itself is 64 bits, but the installation program is 32 bits, so Can not be installed.
 
-[![](https://s3.tenten.co/images/2020/06/3da66b71330faf5435f041be4fca7dd6-thumb.jpg)](https://s3.tenten.co/images/2020/06/3da66b71330faf5435f041be4fca7dd6-thumb.jpg)
+[![](https://i.imgur.com/X55LuTp.png)
 
 ## Can't install after upgrading Catalina?
 
