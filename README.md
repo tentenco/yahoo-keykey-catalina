@@ -32,7 +32,7 @@ If the Yahoo! input method is not installed before the upgrade, users will not b
 
 ![yahooinput04](https://s3.tenten.co/images/2020/06/ebae27bf3fe17d5ced330646f8bed8ad-thumb.jpg)
 
-3. Download the [Yahoo! input method]((https://github.com/zonble/ykk_installer/releases)) repackaged in 2018 
+3. Download the [Yahoo! input method]((https://github.com/zonble/ykk_installer/releases)) repackaged in 2018 for OSX 14+ (Catalina 10.15)
 [![](https://s3.tenten.co/images/2020/06/a357593cf44b71382bd77800a29afccb-thumb.jpg)](https://s3.tenten.co/images/2020/06/a357593cf44b71382bd77800a29afccb-thumb.jpg)
 
 
